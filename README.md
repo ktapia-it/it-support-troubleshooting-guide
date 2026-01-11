@@ -1,115 +1,101 @@
-IT Support Troubleshooting Guide
+# IT Support Troubleshooting Guide
 
-Overview
+## Overview
+This repository contains a structured **IT Support Troubleshooting Guide** designed to document practical, repeatable approaches to diagnosing and resolving common technical issues encountered in entry-level and junior IT support environments.
 
-This repository contains a structured IT Support Troubleshooting Guide designed to document practical, repeatable approaches to diagnosing and resolving common technical issues encountered in entry-level and junior IT support environments.
+The guide reflects a methodical troubleshooting mindset aligned with **CompTIA A+ best practices**, emphasizing clear diagnostics, logical resolution steps, and thorough documentation.
 
-The guide reflects a methodical troubleshooting mindset aligned with CompTIA A+ best practices, focusing on clear diagnostics, logical escalation, and documentation to prevent recurring issues.
+---
 
-Purpose
+## Purpose
+The purpose of this guide is to demonstrate:
 
-The goal of this guide is to demonstrate:
+- A consistent, step-by-step troubleshooting methodology  
+- Clear technical documentation suitable for help desk and IT support roles  
+- Practical experience resolving common hardware, software, and connectivity issues  
+- The ability to communicate technical processes in a clear, usable format  
 
-A consistent, step-by-step troubleshooting methodology
+This documentation is intended to resemble the type of internal knowledge base or runbook commonly used by IT support teams.
 
-Clear technical documentation suitable for help desk and IT support roles
+---
 
-Practical experience resolving common hardware, software, and connectivity issues
+## Troubleshooting Methodology
+Each troubleshooting scenario follows a structured approach:
 
-The ability to communicate technical processes in a clear, usable format
+1. **Issue Identification**  
+   - Clarify the reported problem  
+   - Identify symptoms, scope, and affected systems  
 
-This documentation is intended to mirror the type of internal knowledge base or runbook commonly used in IT support teams.
+2. **Initial Diagnostics**  
+   - Check common failure points  
+   - Verify configurations, connections, and system status  
 
-Troubleshooting Methodology
+3. **Root Cause Analysis**  
+   - Isolate the underlying cause through logical testing  
+   - Eliminate unrelated variables  
 
-Each scenario in the guide follows a structured approach:
+4. **Resolution Steps**  
+   - Apply corrective actions  
+   - Verify system stability and functionality  
 
-Issue Identification
+5. **Documentation & Prevention**  
+   - Record the issue and resolution  
+   - Identify steps to prevent recurrence  
 
-Understand and clarify the reported problem
+---
 
-Identify symptoms, scope, and affected systems
+## Full Troubleshooting Guide
+The complete IT Support Troubleshooting Guide, including step-by-step scenarios and screenshots, is maintained as a Google Doc for clarity and real-world usability:
 
-Initial Diagnostics
+https://docs.google.com/document/d/1PFXXTHv18STeld99xn1U9BBRq9fraWejhW5isP8VAtk/edit?usp=sharing
 
-Check common failure points
+---
 
-Verify configurations, connections, and system status
+## Covered Topics
+The guide includes troubleshooting scenarios across areas such as:
 
-Root Cause Analysis
+- **Hardware Issues**  
+  - Boot failures  
+  - Peripheral and device connectivity  
+  - Power and component-related problems  
 
-Isolate the underlying cause through logical testing
+- **Operating System Issues**  
+  - Windows startup and performance problems  
+  - Driver and update-related issues  
 
-Eliminate unrelated variables
+- **Networking & Connectivity**  
+  - Wi-Fi connectivity issues  
+  - IP configuration and network access problems  
 
-Resolution Steps
+- **User & Application Support**  
+  - Common user-facing errors  
+  - Application configuration and access issues  
 
-Apply corrective actions
+---
 
-Verify system stability and functionality
-
-Documentation & Prevention
-
-Record the issue and resolution
-
-Identify steps to prevent recurrence
-
-Covered Topics
-
-The guide includes documented troubleshooting scenarios across areas such as:
-
-Hardware Issues
-
-Boot failures
-
-Peripheral and device connectivity
-
-Power and component-related problems
-
-Operating System Issues
-
-Windows startup and performance problems
-
-Driver and update-related issues
-
-Networking & Connectivity
-
-Wi-Fi connectivity problems
-
-IP configuration and network access issues
-
-User & Application Support
-
-Common user-facing errors
-
-Application configuration and access issues
-
-Intended Audience
-
+## Intended Audience
 This guide is designed for:
 
-Entry-level IT Support / Help Desk Technicians
+- Entry-level IT Support and Help Desk Technicians  
+- Junior IT professionals developing structured troubleshooting habits  
+- Hiring managers reviewing documentation and troubleshooting methodology  
+- Training or reference use in small IT environments  
 
-Junior IT professionals building structured troubleshooting habits
+---
 
-Hiring managers reviewing practical documentation skills
+## How This Was Used
+This guide was developed through **self-directed, hands-on practice using a home lab environment** to simulate real-world IT support scenarios. Each entry reflects practical troubleshooting experience rather than theoretical instruction.
 
-Training or reference use in small IT environments
+---
 
-How This Was Used
+## About the Author
+Created by **Kenneth Tapia**, CompTIA A+ certified IT Support Technician.
 
-This guide was developed through self-directed hands-on practice using a home lab environment to simulate real-world IT support scenarios. Each entry reflects practical troubleshooting rather than theoretical instruction.
+This repository serves as a portfolio artifact demonstrating technical documentation skills, troubleshooting methodology, and readiness for entry-level IT support roles.
 
-About the Author
+---
 
-Created by Kenneth Tapia, CompTIA A+ certified IT Support Technician.
-
-This repository serves as a portfolio artifact demonstrating technical documentation, troubleshooting methodology, and readiness for entry-level IT support roles.
-
-Notes
-
-This repository focuses on process and documentation, not code
-
-Scenarios are written to be clear, repeatable, and easy to follow
-
-Content may be expanded as additional troubleshooting scenarios are documented
+## Notes
+- This repository focuses on **process and documentation**, not code  
+- Scenarios are written to be clear, repeatable, and easy to follow  
+- Content may be expanded as additional troubleshooting scenarios are documented  
