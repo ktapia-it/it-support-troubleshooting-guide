@@ -1,13 +1,13 @@
 IT Support Troubleshooting Guide
 Overview
 
-This repository contains a structured IT Troubleshooting Playbook designed to document practical, repeatable approaches to diagnosing and resolving common technical issues encountered in entry-level and junior IT support environments.
+This repository contains a structured IT Support Troubleshooting Guide designed to document practical, repeatable approaches to diagnosing and resolving common technical issues encountered in entry-level and junior IT support environments.
 
-The playbook reflects a methodical troubleshooting mindset aligned with CompTIA A+ best practices, focusing on clear diagnostics, logical escalation, and documentation to prevent recurring issues.
+The guide reflects a methodical troubleshooting mindset aligned with CompTIA A+ best practices, focusing on clear diagnostics, logical escalation, and documentation to prevent recurring issues.
 
 Purpose
 
-The goal of this playbook is to demonstrate:
+The goal of this guide is to demonstrate:
 
 A consistent, step-by-step troubleshooting methodology
 
@@ -21,7 +21,7 @@ This documentation is intended to mirror the type of internal knowledge base or 
 
 Troubleshooting Methodology
 
-Each scenario in the playbook follows a structured approach:
+Each scenario in the guide follows a structured approach:
 
 Issue Identification
 
@@ -55,7 +55,7 @@ Identify steps to prevent recurrence
 
 Covered Topics
 
-The playbook includes documented troubleshooting scenarios across areas such as:
+The guide includes documented troubleshooting scenarios across areas such as:
 
 Hardware Issues
 
@@ -85,7 +85,7 @@ Application configuration and access issues
 
 Intended Audience
 
-This playbook is designed for:
+This guide is designed for:
 
 Entry-level IT Support / Help Desk Technicians
 
@@ -97,7 +97,7 @@ Training or reference use in small IT environments
 
 How This Was Used
 
-This playbook was developed through self-directed hands-on practice using a home lab environment to simulate real-world IT support scenarios. Each entry reflects practical troubleshooting rather than theoretical instruction.
+This guide was developed through self-directed hands-on practice using a home lab environment to simulate real-world IT support scenarios. Each entry reflects practical troubleshooting rather than theoretical instruction.
 
 About the Author
 
