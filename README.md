@@ -1,4 +1,5 @@
 IT Support Troubleshooting Guide
+
 Overview
 
 This repository contains a structured IT Support Troubleshooting Guide designed to document practical, repeatable approaches to diagnosing and resolving common technical issues encountered in entry-level and junior IT support environments.
@@ -103,7 +104,7 @@ About the Author
 
 Created by Kenneth Tapia, CompTIA A+ certified IT Support Technician.
 
-This repository is intended as a portfolio artifact demonstrating technical documentation, troubleshooting methodology, and readiness for entry-level IT support roles.
+This repository serves as a portfolio artifact demonstrating technical documentation, troubleshooting methodology, and readiness for entry-level IT support roles.
 
 Notes
 
